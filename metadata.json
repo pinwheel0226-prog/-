@@ -1,0 +1,7 @@
+{
+  "name": "PolyglotStream AI",
+  "description": "A high-performance real-time translation system using Gemini 2.5 Flash. Automatically detects source language and streams translations into Chinese, English, Spanish, and Japanese.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
